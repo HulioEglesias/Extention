@@ -1,0 +1,20 @@
+#Key-analistic{
+	margin-top: 15px;
+}
+.saveSettingButton{
+	background-color: #5ddc73;
+    height: 32px;
+    line-height: 30px;
+    font-size: 20px;
+    width: 242px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 25px;
+    text-align: center;
+}
+.saveSettingButton:hover{
+	background-color: #4ccb62;
+}
+.saveSettingButton:active{
+	background-color: #5ddc73;
+}
